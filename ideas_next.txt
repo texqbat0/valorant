@@ -1,0 +1,2 @@
+# Ideas
+Replace switch statements with polymorphic objects
